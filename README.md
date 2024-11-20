@@ -12,4 +12,4 @@ Implementierung von Spiellogik und Validierung
 
 # Ziel dieses Repositories
 
-Der Quellcode dieses Projekts dient dazu, ein Teil meiner bisherigen Fähigkeiten in der Softwareentwicklung zu präsentieren. Es ist ein Beispiel meiner Arbeit und zeigt meine Motivation, programmiertechnische Herausforderungen zu lösen und dabei robuste, funktionale Anwendungen zu entwickeln.
+Der Quellcode dieses Projekts dient dazu, ein Teil meiner bisherigen Fähigkeiten in der Softwareentwicklung aus der Mittelstufe zu präsentieren. Es ist ein Beispiel meiner Arbeit und zeigt meine Motivation, programmiertechnische Herausforderungen zu lösen und dabei robuste, funktionale Anwendungen zu entwickeln.
