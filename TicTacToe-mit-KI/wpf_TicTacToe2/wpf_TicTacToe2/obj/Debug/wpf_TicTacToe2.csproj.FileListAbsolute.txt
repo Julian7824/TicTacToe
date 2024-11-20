@@ -1,0 +1,60 @@
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2_MarkupCompile.cache
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.exe.config
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.exe
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.pdb
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2_MarkupCompile.lref
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.g.resources
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.Properties.Resources.resources
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.exe
+C:\Users\User\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.pdb
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.exe.config
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.exe
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.pdb
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.AssemblyReference.cache
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\MainWindow.g.cs
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\App.g.cs
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2_MarkupCompile.cache
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2_MarkupCompile.lref
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\MainWindow.baml
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.g.resources
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.Properties.Resources.resources
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.GenerateResource.cache
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.CoreCompileInputs.cache
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.exe
+C:\Users\Schueler\OneDrive\BKN\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.pdb
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.exe.config
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.exe
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.pdb
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.AssemblyReference.cache
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\MainWindow.g.cs
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\App.g.cs
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2_MarkupCompile.cache
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2_MarkupCompile.lref
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\MainWindow.baml
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.g.resources
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.Properties.Resources.resources
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.GenerateResource.cache
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.CoreCompileInputs.cache
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.exe
+C:\Users\Schueler\OneDrive\99 Archiv\01 Schule\02 BKN\02 BKN_Jahr2\Software\wpf\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.pdb
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.exe.config
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.exe
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\bin\Debug\wpf_TicTacToe2.pdb
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.AssemblyReference.cache
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\MainWindow.g.cs
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\App.g.cs
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2_MarkupCompile.cache
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2_MarkupCompile.lref
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\MainWindow.baml
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.g.resources
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.Properties.Resources.resources
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.GenerateResource.cache
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.csproj.CoreCompileInputs.cache
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.exe
+S:\Bewerbungsmappe\Strato\wpf_TicTacToe2\wpf_TicTacToe2\wpf_TicTacToe2\obj\Debug\wpf_TicTacToe2.pdb
