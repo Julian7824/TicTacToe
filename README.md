@@ -1,6 +1,6 @@
 # TicTacToe
 
-Willkommen zu meinem TicTacToe-Projekt, das ich während meiner Ausbildung zum Informationstechnischen Assistenten entwickelt habe. Dieses Projekt wurde im Rahmen der schulischen Ausbildung erstellt und stellt grundlegende Programmierkenntnisse in C# mit WPF dar.
+Willkommen zu meinem TicTacToe-Projekt, das ich während meiner Ausbildung zum Informationstechnischen Assistenten entwickelt habe. Dieses Projekt wurde stellt grundlegende Programmierkenntnisse in C# mit WPF dar.
 
 # Projektbeschreibung
 
